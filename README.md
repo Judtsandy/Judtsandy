@@ -1,11 +1,4 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
-</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++¡Hola!+Soy+Sandy+Judith+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++¡Encantada+de+conocerte!+🌻)](https://git.io/typing-svg)
-
-# <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Girasol"></a> ¿Cómo estás? Soy Sandy Judith 🌻 
+# <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="150px" height="150px" alt="Girasol"></a> Soy Sandy Judith 🌻 
 
 🙋‍♂️ ¡Gracias por visitar mi perfil de GitHub! 
 
@@ -26,13 +19,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
 </span>
 &nbsp;
-<span>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
+<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
 </span>
 &nbsp;
 <br>
@@ -42,8 +32,6 @@
 <br>
 
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
