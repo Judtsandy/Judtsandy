@@ -129,7 +129,7 @@
 
 <br>
 <div align="center">
-<a href="https://github.com/SophieNguyen113">
+<a href="https://github.com/Judtsandy">
 <img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
 </a>
 
@@ -139,8 +139,3 @@
 
 <br>
 
-
------
-Credits: [Sophie Nguyen](https://github.com/SophieNguyen113)
-
-Last Edited on: 10/07/2023
