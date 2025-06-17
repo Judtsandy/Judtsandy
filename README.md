@@ -100,7 +100,7 @@
 
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sandy-judith-hern%C3%A1ndez-carlos-68b33536b/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
   <a href="mailto:sandyhernandezcar833@gmail.com" target="top" rel="noopener noreferrer">
